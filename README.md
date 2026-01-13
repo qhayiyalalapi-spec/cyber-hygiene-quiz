@@ -9,3 +9,4 @@ An interactive Python quiz app teaching basic cybersecurity awareness.
 ## How to run
 ```bash
 python cyber_quiz.py
+ 
